@@ -29,7 +29,7 @@ This enables players to use their Steam items in a decentralized ecosystem, from
 
 ### Usage
 
-1. Visit `https://fskin.fun` (or your local development server).
+1. Visit `https://fskin.fun` [Here](https://fskin.fun)
 2. Connect your Web3 wallet and Steam account.
 3. Use the minting or redemption pages to tokenize your CS2 items.
 4. Trade your tokens on decentralized exchanges or use them in DeFi applications.
